@@ -1,0 +1,51 @@
+nav{
+    text-align: center;
+    color: white;
+    
+}
+li,ul{
+    display: inline;
+}
+li{
+    color: grey;
+    cursor: pointer;
+
+}
+li:hover{
+    color: white;
+}
+.box{
+
+    width: 200px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    display: inline-block;
+    
+}
+.products{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+h2{
+    display: inline;
+}
+.contactus{
+        color: white;
+        text-align: center;
+
+}
+h4{
+    background-color: yellow;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
